@@ -1,0 +1,34 @@
+{
+  "name": "oroswap-auto-bot",
+  "version": "1.0.0",
+  "description": "An automation bot for the OroSwap Testnet to perform swaps and manage liquidity. Configurable and easy to use for farming testnet points.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmoureuxID/Oroswap-Auto-Bot.git"
+  },
+  "keywords": [
+    "oroswap",
+    "autobot",
+    "bot",
+    "automation",
+    "testnet",
+    "oro"
+  ],
+  "author": "AmoureuxID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmoureuxID/Oroswap-Auto-Bot/issues"
+  },
+  "homepage": "https://github.com/AmoureuxID/Oroswap-Auto-Bot#readme",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.34.0",
+    "@cosmjs/proto-signing": "^0.34.0",
+    "@cosmjs/stargate": "^0.34.0",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.0"
+  }
+}

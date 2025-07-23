@@ -53,8 +53,8 @@ For updates, tips, and airdrop info:
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/AmoureuxID/Oros-Network-Auto-Bot.git
-cd Oros-Network-Auto-Bot
+git clone https://github.com/AmoureuxID/Oroswap-Auto-Bot.git
+cd Oroswap-Auto-Bot
 npm install
 ```
 

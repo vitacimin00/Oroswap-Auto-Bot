@@ -69,7 +69,6 @@ Add your wallet's private key to the `.env` file.
 # Add your wallet private key here (without the 0x prefix)
 PRIVATE_KEY=your_private_key_1
 ```
-> **⚠️ IMPORTANT:** Always use a new, empty **burner wallet** for this kind of activity. NEVER use a private key from your main wallet containing real funds.
 
 #### b. Bot Settings (`config.js` file)
 
